@@ -27,7 +27,7 @@ With experience from both academic and real-world projects, I thrive in collabor
 ### 🚢 [Inception](https://github.com/DiogoMartins42/42-Cursus-Inception)
 A self-hosted infrastructure using Docker and Docker Compose. Built from the ground up with focus on DevOps, container orchestration, Linux administration, and best security practices.
 
-### 🕹️ Cube3D
+### 🕹️ [Cube3D](https://github.com/DiogoMartins42/42-Cursus_Cub3d)
 A custom 3D raycasting engine in C, inspired by Wolfenstein 3D. Includes texture mapping, real-time rendering, and memory-optimized player mechanics.
 
 ### 🎮 Game Dev @ FEUP
