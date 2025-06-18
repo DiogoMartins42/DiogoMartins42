@@ -8,6 +8,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=1000&color=4FC3F7&center=true&vCenter=true&width=800&height=100&lines=DIOGO+MARTINS;SOFTWARE+DEV+%7C+C%2FC%2B%2B+%7C+GAME+DEV+%7C+DEVOPS" alt="Header"/>
 </p>
 
+<p>
+<h1 align="center">“Code is like humor. When you have to explain it, it’s bad.” </h1>
+
 **Software Developer | Game Dev Enthusiast | DevOps Learner**  
 📍 Porto, Portugal  
 📫 d.martins@ua.pt | [LinkedIn](https://www.linkedin.com/in/diogo-martins-ua/) | [GitHub](https://github.com/DiogoMartins42)
@@ -75,7 +78,3 @@ Collaborated with engineering students to develop a full 3D game. Designed all m
 ✨ Teamwork & Communication  
 ✨ Time Management  
 ✨ Adaptability  
-
----
-
-*“Code is like humor. When you have to explain it, it’s bad.” – Cory House*
