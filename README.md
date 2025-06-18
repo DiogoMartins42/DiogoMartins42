@@ -6,11 +6,13 @@
 
 ---
 
-## 👋 About Me
+## 📈 Let's Connect
 
-I'm a passionate and adaptable software developer with a background in **software development**, **DevOps**, and **game development**. I enjoy building efficient and scalable systems, whether it’s a backend infrastructure, a 3D game engine, or a sleek web interface.
+I'm always open to exciting job opportunities, freelance projects, and collaboration with other passionate developers. Feel free to reach out or connect with me:
 
-With experience from both academic and real-world projects, I thrive in collaborative environments where I can grow, solve complex problems, and deliver meaningful work.
+- 📧 d.martins@ua.pt
+- 💼 [LinkedIn](https://www.linkedin.com/in/diogo-martins-ua/)
+- 💻 [GitHub](https://github.com/DiogoMartins42)
 
 ---
 
@@ -19,6 +21,14 @@ With experience from both academic and real-world projects, I thrive in collabor
 - **Languages:** C, C++, C#, JavaScript, HTML, CSS, Shell
 - **Tools & Frameworks:** Docker, Unity, Blender, Git, Linux, Docker Compose
 - **Specialties:** Game Development, DevOps, 3D Engines, System Programming
+
+---
+
+## 👋 About Me
+
+I'm a passionate and adaptable software developer with a background in **software development**, **DevOps**, and **game development**. I enjoy building efficient and scalable systems, whether it’s a backend infrastructure, a 3D game engine, or a sleek web interface.
+
+With experience from both academic and real-world projects, I thrive in collaborative environments where I can grow, solve complex problems, and deliver meaningful work.
 
 ---
 
@@ -57,16 +67,6 @@ Collaborated with engineering students to develop a full 3D game. Designed all m
 ✨ Teamwork & Communication  
 ✨ Time Management  
 ✨ Adaptability  
-
----
-
-## 📈 Let's Connect
-
-I'm always open to exciting job opportunities, freelance projects, and collaboration with other passionate developers. Feel free to reach out or connect with me:
-
-- 📧 d.martins@ua.pt
-- 💼 [LinkedIn](https://www.linkedin.com/in/diogo-martins-ua/)
-- 💻 [GitHub](https://github.com/DiogoMartins42)
 
 ---
 
