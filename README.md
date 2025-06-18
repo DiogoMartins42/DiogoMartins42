@@ -1,4 +1,12 @@
-# 💻 Diogo Martins
+<p align="center">
+  <h1 align="center">DIOGO MARTINS</h1>
+  <h3 align="center" style="color: #7dd3fc">SOFTWARE DEVELOPER | C/C++ | GAME DEV | DEVOPS</h3>
+  <p align="center">🚀 C++  •  🐳 Docker  •  🎮 Unity  •  🔺 Blender</p>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=1000&color=4FC3F7&center=true&vCenter=true&width=800&height=100&lines=DIOGO+MARTINS;SOFTWARE+DEV+%7C+C%2FC%2B%2B+%7C+GAME+DEV+%7C+DEVOPS" alt="Header"/>
+</p>
 
 **Software Developer | Game Dev Enthusiast | DevOps Learner**  
 📍 Porto, Portugal  
